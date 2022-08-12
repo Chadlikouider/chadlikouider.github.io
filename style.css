@@ -107,7 +107,7 @@ section .title::after{
 /*home section styling*/
 .home{
     display: flex;
-    background: url("Images/Home_background.jpg") no-repeat right;
+    background: url("Images/home_background.jpg") no-repeat right;
     background-size: cover;
     background-attachment: fixed;
     height: 100vh;
