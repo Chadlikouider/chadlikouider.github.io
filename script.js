@@ -14,7 +14,7 @@ $(document).ready(function(){
 
     //typing animation script
     var typed = new Typed(".typing",{
-        strings: ["a robotics engineer","a software engineer","an automation engineer", "a mechatonics engineer","an AI Enthusiast","a programming enthusiast"],
+        strings: ["a robotics engineer","a software engineer","an automation engineer", "a mechatronics engineer","an AI Enthusiast","a programming enthusiast"],
         typeSpeed: 100,
         backSpeed: 50,
         loop: true
